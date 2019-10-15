@@ -14,7 +14,7 @@ html {
 }
 
 .topnav a{
-	text-align: center;
+	text-align: justify;
 	float: Left;
 	color: #000000;
 	padding: 14px 16px;
@@ -35,7 +35,7 @@ html {
 h1 {
 	text-align: center;
 	font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-	font-size:35px;
+	font-size:40px;
 	padding-top: 15px;
 	font-family: fantasy;
 	color:  rgb(219, 183, 19);
