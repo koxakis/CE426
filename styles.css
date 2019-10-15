@@ -1,0 +1,52 @@
+html {
+	height:100%;
+	background-color: rgb(0, 0, 0);
+	background-position: center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+ 
+}
+
+.topnav {
+	background-color: rgb(240, 198, 12);
+	overflow: hidden;
+	position: sticky;
+}
+
+.topnav a{
+	text-align: center;
+	float: left;
+	color: #000000;
+	padding: 14px 16px;
+	font-size: 17px;
+	font-family: Verdana;
+}
+
+.topnav a:hover {
+	background-color: rgb(255, 94, 0);
+	color:black;
+}
+
+.topnav a:active{
+	background-color:#DA70D6;
+	color:white;
+}
+
+h1 {
+	text-align: center;
+	font-family: Verdana;
+	font-size:35px;
+	padding-top: 15px;
+	color:  rgb(219, 183, 19);
+}
+
+
+p {
+	text-align: center;
+	padding-top: 50px;
+	padding-left: 30px;
+	padding-right: 30px;
+	font-size: 25px;
+	font-family: helvetica;
+	color: rgb(219, 183, 19);
+}
